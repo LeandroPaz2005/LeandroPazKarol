@@ -1,6 +1,6 @@
 # 💫 About Me
 
-![banner](https://imgur.com/a/o7LQ7Ui)
+![banner](https://i.imgur.com/9rjBkjP.gif)
 
 ### 👩‍💻 Sobre mí
 
