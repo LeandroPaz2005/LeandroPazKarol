@@ -1,1 +1,21 @@
-# LeandroPazKarol
+# 💫 About Me:
+<br><br>### 👩‍💻 Sobre mí<br><br>¡Hola! Soy **Karol Andrea Leandro Paz**, una programadora joven y entusiasta de **20 años**, estudiante universitaria del **7mo ciclo de Ingeniería de Software en la Universidad Tecnológica del Perú (UTP)**.<br>Me apasiona el mundo de la **tecnología**, y cada día busco aprender y explorar nuevas herramientas en el área de desarrollo de software, TI y tecnología emergente.<br><br>Actualmente participo en proyectos universitarios donde aplico lo aprendido en clases y realizo proyecto individuales. Me motiva mucho no solo programar, sino también **compartir mis conocimientos** con otros estudiantes y poder enseñar a la juventud sobre la tecnología e involucrarse en  las áreas **STEAM**, porque creo firmemente que **enseñar es una de las mejores formas de seguir aprendiendo** y mejorar como sociedad para poder aportar algo.<br><br>💡 **¿Mis aspiraciones?**<br><br>* Desarrollar proyectos reales y retadores<br>* Ser parte de un **startup tecnológico** donde pueda aportar ideas y crecer profesionalmente<br>* Convertirme en una **mentora, facilitadora o docente**, ayudando a otros a dar sus primeros pasos en la programación<br><br>### 🚀 Tecnologías que estoy aprendiendo o fortaleciendo:<br><br>* Java, JavaScript, React, Angular<br>* Node.js, Spring Boot<br>* Git & GitHub<br>* Bases de datos relacionales y no relacionales<br>* Desarrollo web frontend y backend<br>* <br>Me considero una persona **proactiva, creativa, con espíritu de equipo y muchas ganas de seguir mejorando cada día**. <br>
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Karol Andrea Leandro Paz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karoleandropaz@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LeandroPaz2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=LeandroPaz2005&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroPaz2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=LeandroPaz2005&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
