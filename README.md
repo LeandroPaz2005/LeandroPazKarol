@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 Bienvenid@!
 
 <img src="https://i.imgur.com/on96AmK.jpg" alt="banner" width="100%" />
 
@@ -95,5 +95,20 @@ Actualmente participo en proyectos universitarios aplicando lo aprendido en clas
   <img src="https://nirzak-streak-stats.vercel.app/?user=LeandroPaz2005&theme=dark&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroPaz2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
+---
+## 🚀 Proyectos Destacados
+
+### 👗 Boutique Online Mar de Moda
+Aplicación web para gestionar compras y pedidos en una boutique online.  
+**Tecnologías:** Spring Boot, Java, Thymeleaf, Frontend & Backend, Seguridad, MySQL  
+🔗 [Ver proyecto](https://github.com/LeandroPazKarol/BoutiqueOnline_MarDeModa.git)
+
+---
+
+### 🍗 Pollería Ñorkys
+Sistema web para realizar pedidos de la carta de una pollería.  
+**Tecnologías:** Spring Boot, Thymeleaf, XAMPP, Autenticación, MySQL  
+🔗 [Ver proyecto](https://github.com/BruGeth/-orkys.git)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
